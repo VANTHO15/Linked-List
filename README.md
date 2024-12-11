@@ -39,7 +39,7 @@ Linked List được cấu thành từ những phần tử (element) và đượ
 - Để thêm một Node mới vào danh sách, mình cần cấp phát vùng nhớ cho Node này.
 
 ![image](https://github.com/user-attachments/assets/752e9300-1b2b-4d29-948b-c4bf21218757)
-- Ở ví dụ này mình đang cấp phát bộ nhớ ở dạng động (dynamic). Mỗi lần khởi tạo một Node mới nó sẽ lấy dữ liệu từ vùng nhớ Heap để cấp phát cho Node. Ở bài viết kế tiếp, mình sẽ trình bày cơ chế Pool memory, ta sẽ cấp phát tĩnh một "bể" dữ liệu để thay cho việc lấy bộ nhớ từ vùng Heap này (Một dạng Linked List nằm trong 1 Array :) )
+- Ở ví dụ này mình đang cấp phát bộ nhớ ở dạng động (dynamic). Mỗi lần khởi tạo một Node mới nó sẽ lấy dữ liệu từ vùng nhớ Heap để cấp phát cho Node. Ở bài viết kế tiếp, mình sẽ trình bày cơ chế Pool memory, ta sẽ cấp phát tĩnh một "bể" dữ liệu để thay cho việc lấy bộ nhớ từ vùng Heap này (Một dạng Linked List nằm trong 1 Array)
 - Để thêm một Node vào danh sách, mình sẽ tạo các hàm như sau:
 
 ![image](https://github.com/user-attachments/assets/b99cd259-1517-40fa-88d5-40d48616ff05)
