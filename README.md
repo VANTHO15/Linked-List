@@ -43,6 +43,7 @@ Linked List được cấu thành từ những phần tử (element) và đượ
 - Để thêm một Node vào danh sách, mình sẽ tạo các hàm như sau:
 
 ![image](https://github.com/user-attachments/assets/b99cd259-1517-40fa-88d5-40d48616ff05)
+
 ![image](https://github.com/user-attachments/assets/bb4ecacd-c772-43cc-8bcd-02b220167438)
 - Hàm xóa một Node khỏi danh sách:
 ![image](https://github.com/user-attachments/assets/ad0ae2e2-7e93-4305-abca-268831da9eac)
