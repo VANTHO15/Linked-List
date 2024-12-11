@@ -46,13 +46,16 @@ Linked List được cấu thành từ những phần tử (element) và đượ
 
 ![image](https://github.com/user-attachments/assets/bb4ecacd-c772-43cc-8bcd-02b220167438)
 - Hàm xóa một Node khỏi danh sách:
+  
 ![image](https://github.com/user-attachments/assets/ad0ae2e2-7e93-4305-abca-268831da9eac)
 - Như vậy tương đối đã đủ các thành phần cơ bản để quản lý các thao tác trên Linked List. Mình tạo thêm một hàm để in ra các phần tử trong danh sách này để dễ quan sát.
+  
 ![image](https://github.com/user-attachments/assets/e5007393-331c-419a-9f02-243efa9b70c6)
 
 # Test thử code
 ![image](https://github.com/user-attachments/assets/29a0154c-c9b5-4cf0-a582-1074865987ff)
 - Kết quả
+  
 ![image](https://github.com/user-attachments/assets/fd38ae9e-b6db-4839-8c9c-add0fb8c27fd)
 
 
